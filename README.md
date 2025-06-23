@@ -1,4 +1,7 @@
-# psasoftware.github.io
+
+<p style="text-align: right;">
+  🌍 <a href="manifesto.english.html">Ver versión en inglés</a>
+</p>
 
 # 🛠️ Manifiesto del Desarrollador Ético  
 _por Diego, con espíritu docente y vocación libre_
